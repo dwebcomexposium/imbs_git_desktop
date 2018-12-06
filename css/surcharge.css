@@ -1774,7 +1774,7 @@ a.btn-primary {
 .site-footer a { color: inherit; text-decoration: none; }
 
 .site-footer .copyright { float: left; font-family: 'Comfortaa', sans-serif; color: #002f3d; }
-.site-footer .footer-logo { position: absolute; width: 12.58vw; height: 3.44vw; top: 50%; left: 50%; margin-top: .25vw; background-image: url(images/comexposium.svg); 
+.site-footer .footer-logo { position: absolute; width: 12.58vw; height: 3.44vw; top: 50%; left: 25%; margin-top: .25vw; background-image: url(images/comexposium.svg); 
 	-webkit-transform: translate(-50%, -50%); 
 	    -ms-transform: translate(-50%, -50%); 
 	     -o-transform: translate(-50%, -50%); 
@@ -2286,4 +2286,5 @@ body.article_list .list-articles .la-item h2 { color: #e63a3a}
 
 
 .block-small.quicklinks.temoin { display: none; }
+
 
